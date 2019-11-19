@@ -1,0 +1,5 @@
+db_table,test
+db_column,DataTime,OutdoorSunshine,IndoorSunshine,OutdoorTemperature,IndoorTemperature,Rainwater,RelativeHumidity,OutdoorWindSpeed
+file_tag,csv
+data_dir,/Users/dingding/Documents/get_fileData_to_mySQL/data
+deletes,0x, 20.818:30
